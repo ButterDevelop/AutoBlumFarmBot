@@ -4,7 +4,7 @@
 
 ## Overview
 
-The AutoBlumFarm Frontend is a React.js-powered web interface for interacting with the AutoBlumFarm platform—a sophisticated automation and management system for Telegram mini-app accounts used by the crypto project Blum. This frontend allows users to easily manage their accounts, purchase slots, check their rewards, and interact with the system in a user-friendly, responsive environment.
+The **AutoBlumFarm Frontend** is a **React.js**-powered web interface for interacting with the [AutoBlumFarm platform](https://t.me/AutoBlumFarm) — a sophisticated automation and management system for Telegram mini-app accounts used by the crypto project Blum. This frontend allows users to easily manage their accounts, purchase slots, check their rewards, and interact with the system in a user-friendly, responsive environment.
 
 AutoBlumFarm automates a range of daily tasks including:
 - Collecting daily rewards  
